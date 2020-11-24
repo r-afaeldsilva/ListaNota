@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prova</string>
+    <string name="lista_de_alunos">Lista de alunos</string>
+    <string name="nome_do_aluno">Nome do aluno</string>
+</resources>
